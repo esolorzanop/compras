@@ -1,0 +1,22 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example.gitignore files : https://github.com/github/gitignore
+_notes/
+/bower_components/
+/node_modules/
+/images/
+/otros/
+/func_php/sqlnet.log
+/func_php/tiempos - Copia.php
+/pag_php/22Julpedidos.php
+/pag_php/22Juldetallec.php
+/pag_php/22Juldetallec.php
+/pag_php/22Julautorizacion.php
+/pag_php/24Abrilpedidos.php
+/pag_php/ori_pedidos.php
+/pag_php/ori_autorizacion.php
+/pag_php/no_buspedido.php
+/pag_php/no_estadisticos.php
+/pag_php/no_inautorizacion.php
+/pag_php/no_nusuario.php
+/pag_php/no_cambclave.php
