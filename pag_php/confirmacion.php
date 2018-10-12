@@ -209,7 +209,7 @@ echo "<td width=80px bgcolor=#626262 class=date colspan=2><div align=center clas
 </div>
 </div>
 <script language="JavaScript" type="text/javascript">
-/*	var message="";
+	var message="";
 	function clickIE() {if (document.all) {(message);return false;}}
 	function clickNS(e) {if 
 	(document.layers||(document.getElementById&&!document.all)) {
@@ -217,7 +217,7 @@ echo "<td width=80px bgcolor=#626262 class=date colspan=2><div align=center clas
 	if (document.layers) 
 	{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
 	else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
-	document.oncontextmenu=new Function("return false")*/
+	document.oncontextmenu=new Function("return false");
 </script>
 </body>
 </html>
